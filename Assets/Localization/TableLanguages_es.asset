@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableLanguages_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: c5f95faf879aa724dac4640e2024b1de, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6531224477696
+    m_Localized: "En lo m\xE1s profundo del bosque encantado de Rondor, donde los
+      \xE1rboles susurraban secretos y las sombras danzaban al comp\xE1s del viento,
+      viv\xEDan dos hermanos gemelos, Alex y Max. Desde peque\xF1os, siempre se hab\xEDan
+      prometido cuidarse el uno al otro sin importar qu\xE9.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7098868998144
+    m_Localized: "Una tarde, decidieron explorar m\xE1s all\xE1 de los l\xEDmites
+      conocidos del bosque. Alex, siempre m\xE1s cauteloso, asinti\xF3 con reservas
+      pero sigui\xF3 a su intr\xE9pido hermano. Caminaron durante varias horas y
+      encontraron un lugar, donde crec\xEDa un \xE1rbol peculiar, con frutos brillantes
+      que parec\xEDan magicos.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7220214407168
+    m_Localized: "Sin detenerse a considerar las advertencias que escucharon alguna
+      vez sobre el bosque, Max extendi\xF3 la mano, tom\xF3 una fruta reluciente
+      y comenz\xF3 a comerla. Alex observ\xF3 horrorizado c\xF3mo su hermano comenzaba
+      a transformarse y a desvanecerse hasta desaparecer por completo.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7322819665920
+    m_Localized: "Max, no te vayas, grit\xF3 Alex, desesperado. Pero ya era tarde.
+      Su hermano hab\xEDa sido embrujado por la fruta y absorbido por el bosque encantado.
+      Alex cay\xF3 de rodillas, con l\xE1grimas en los ojos y el coraz\xF3n lleno
+      de dolor.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436141371392
+    m_Localized: "Decidi\xF3 entonces ir a rescatar a su hermano gemelo, sin importar
+      cu\xE1n peligroso o imposible pareciera. Con valent\xEDa, Alex se adentr\xF3
+      m\xE1s en el bosque, recordando las palabras de sabidur\xEDa de un antiguo
+      cuento: \"Donde hay amor, no hay temor; donde hay esperanza, no hay desesperaci\xF3n.\"\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25852369739776
+    m_Localized: Idiomas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99731071082496
+    m_Localized: COMENZAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99758535385088
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99788029730816
+    m_Localized: SALIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320598728286208
+    m_Localized: "Vol\xFAmen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321127441276928
+    m_Localized: Brillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322799278268416
+    m_Localized: SALIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327503001460736
+    m_Localized: SALTAR INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328206482710528
+    m_Localized: JUGAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332709730754560
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333227970568192
+    m_Localized: "\rIZQUIERDA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333260363177984
+    m_Localized: DERECHA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336701156270080
+    m_Localized: SALTAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370821861253120
+    m_Localized: Gracias por jugar!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381975257980928
+    m_Localized: "\rNivel completo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382011287052288
+    m_Localized: Recoge todas las frutas!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394081676075008
+    m_Localized: CONTINUAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394676474519552
+    m_Localized: REINICIAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404534842138624
+    m_Localized: Frutas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799073750360064
+    m_Localized: Nuevo Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1802212616478720
+    m_Localized: Cargar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808711648583680
+    m_Localized: GUARDAR
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

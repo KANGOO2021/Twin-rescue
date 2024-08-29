@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableLanguages_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c5f95faf879aa724dac4640e2024b1de, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6531224477696
+    m_Localized: "Au fond de la for\xEAt enchant\xE9e de Rondor, o\xF9 les arbres
+      murmuraient des secrets et o\xF9 les ombres dansaient avec le vent, vivaient
+      deux fr\xE8res jumeaux, Alex et Max. Depuis qu'ils \xE9taient petits, ils s'\xE9taient
+      toujours promis de prendre soin les uns des autres quoi qu'il arrive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7098868998144
+    m_Localized: "Un apr\xE8s-midi, ils d\xE9cid\xE8rent d'explorer au-del\xE0 des
+      limites connues de la for\xEAt. Alex, toujours plus prudent, hocha la t\xEAte
+      avec r\xE9serve mais suivit son intr\xE9pide fr\xE8re. Ils march\xE8rent pendant
+      plusieurs heures et trouv\xE8rent un endroit o\xF9 poussait un arbre particulier,
+      aux fruits brillants qui semblaient magiques."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7220214407168
+    m_Localized: "Sans s'arr\xEAter pour r\xE9fl\xE9chir aux avertissements qu'ils
+      avaient entendus \xE0 propos de la for\xEAt, Max tendit la main, attrapa un
+      fruit scintillant et commen\xE7a \xE0 le manger. Alex regarda avec horreur
+      son fr\xE8re commencer \xE0 se transformer et \xE0 dispara\xEEtre jusqu'\xE0
+      dispara\xEEtre compl\xE8tement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7322819665920
+    m_Localized: "Max, ne pars pas, cria Alex, d\xE9sesp\xE9r\xE9. Mais c'\xE9tait
+      trop tard. Son fr\xE8re avait \xE9t\xE9 ensorcel\xE9 par le fruit et absorb\xE9
+      dans la for\xEAt enchant\xE9e. Alex tomba \xE0 genoux, les larmes aux yeux
+      et le c\u0153ur plein de douleur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436141371392
+    m_Localized: "Il d\xE9cida alors d'aller sauver son fr\xE8re jumeau, m\xEAme
+      si cela semblait dangereux ou impossible. Courageusement, Alex s'enfon\xE7a
+      plus profond\xE9ment dans la for\xEAt, se souvenant des paroles de sagesse
+      d'un conte ancien : \xAB L\xE0 o\xF9 il y a de l'amour, il n'y a pas de peur
+      ; l\xE0 o\xF9 il y a de l'espoir, il n'y a pas de d\xE9sespoir. \xBB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25852369739776
+    m_Localized: Langues
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99731071082496
+    m_Localized: "\rCOMMENCER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99758535385088
+    m_Localized: "PARAM\xC8TRES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99788029730816
+    m_Localized: QUITTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320598728286208
+    m_Localized: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321127441276928
+    m_Localized: "Luminosit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322799278268416
+    m_Localized: SORTIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327503001460736
+    m_Localized: PASSER L'INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328206482710528
+    m_Localized: JOUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332709730754560
+    m_Localized: "\rContr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333227970568192
+    m_Localized: GAUCHE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333260363177984
+    m_Localized: DROITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336701156270080
+    m_Localized: SAUTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370821861253120
+    m_Localized: "Merci d'avoir jou\xE9!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381975257980928
+    m_Localized: Niveau complet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382011287052288
+    m_Localized: Collectez tous les fruits!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394081676075008
+    m_Localized: CONTINUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394676474519552
+    m_Localized: "R\xC9INICIO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404534842138624
+    m_Localized: Fruits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799073750360064
+    m_Localized: Nouveau jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1802212616478720
+    m_Localized: Charger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808711648583680
+    m_Localized: SAUVER
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

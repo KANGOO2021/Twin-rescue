@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TableLanguages_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: c5f95faf879aa724dac4640e2024b1de, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6531224477696
+    m_Localized: "Nas profundezas da floresta encantada de Rondor, onde as \xE1rvores
+      sussurravam segredos e as sombras dan\xE7avam com o vento, viviam dois irm\xE3os
+      g\xEAmeos, Alex e Max. Desde pequenos, sempre prometeram cuidar um do outro,
+      n\xE3o importa o que acontecesse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7098868998144
+    m_Localized: "Uma tarde, decidiram explorar al\xE9m dos limites conhecidos da
+      floresta. Alex, cada vez mais cauteloso, assentiu com reserva, mas seguiu o
+      intr\xE9pido irm\xE3o. Caminharam por v\xE1rias horas e encontraram um lugar
+      onde crescia uma \xE1rvore peculiar, com frutos brilhantes que pareciam m\xE1gicos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7220214407168
+    m_Localized: "Sem parar para pensar nos avisos que ouviram uma vez sobre a floresta,
+      Max estendeu a m\xE3o, pegou uma fruta brilhante e come\xE7ou a com\xEA-la.
+      Alex assistiu com horror enquanto seu irm\xE3o come\xE7ou a se transformar
+      e desaparecer at\xE9 desaparecer completamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7322819665920
+    m_Localized: "Max, n\xE3o v\xE1, Alex gritou desesperado. Mas era tarde demais.
+      Seu irm\xE3o foi enfeiti\xE7ado pela fruta e absorvido pela floresta encantada.
+      Alex caiu de joelhos, com l\xE1grimas nos olhos e o cora\xE7\xE3o cheio de
+      dor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7436141371392
+    m_Localized: "Ele decidiu ent\xE3o resgatar seu irm\xE3o g\xEAmeo, por mais perigoso
+      ou imposs\xEDvel que parecesse. Corajosamente, Alex entrou mais fundo na floresta,
+      lembrando-se das palavras de sabedoria de um antigo conto: \"Onde h\xE1 amor,
+      n\xE3o h\xE1 medo; onde h\xE1 esperan\xE7a, n\xE3o h\xE1 desespero.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25852369739776
+    m_Localized: "\rL\xEDnguas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99731071082496
+    m_Localized: "COME\xC7AR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99758535385088
+    m_Localized: AJUSTES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99788029730816
+    m_Localized: DESISTIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320598728286208
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321127441276928
+    m_Localized: Brilho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322799278268416
+    m_Localized: "SA\xCDDA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327503001460736
+    m_Localized: PULAR INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328206482710528
+    m_Localized: JOGAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332709730754560
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333227970568192
+    m_Localized: ESQUERDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333260363177984
+    m_Localized: DIREITA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336701156270080
+    m_Localized: SALTAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370821861253120
+    m_Localized: Obrigado por jogar!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381975257980928
+    m_Localized: "\rN\xEDvel completo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382011287052288
+    m_Localized: "\rColete todas as frutas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394081676075008
+    m_Localized: CONTINUAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394676474519552
+    m_Localized: REINICIAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404534842138624
+    m_Localized: Frutas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799073750360064
+    m_Localized: Novo jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1802212616478720
+    m_Localized: Carregar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808711648583680
+    m_Localized: SALVAR
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
